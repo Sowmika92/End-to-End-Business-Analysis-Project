@@ -1,0 +1,8 @@
+Files to include in portfolio:
+- README.md
+- data_dictionary.md
+- report.md (detailed write-up)
+- notebook.ipynb (EDA & modeling)
+- churn_modeling.py
+- slides.pdf
+- dashboard-screenshots/*
